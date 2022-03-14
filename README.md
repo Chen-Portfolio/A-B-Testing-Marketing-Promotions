@@ -51,4 +51,4 @@ The main technical skills included in this project are:
 <a id='results'></a>
 ## Results
 
-The results have been clearly documented in the Jupyter Notebook. Please refer to [A_B_Testing_Marketing_Promotions_Workbook.ipynb](A_B_Testing_Marketing_Promotions_Workbook.ipynb). 
+The results have been clearly documented in the python colab Notebook. Please refer to [A_B_Testing_Marketing_Promotions_Workbook.ipynb](A_B_Testing_Marketing_Promotions_Workbook.ipynb). 
